@@ -1,0 +1,1 @@
+Changes in this directory should not trigger the pipeline
